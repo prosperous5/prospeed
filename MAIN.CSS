@@ -1,0 +1,22 @@
+BODY{ 
+background-image:url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?size=1276&ext=jpg')
+}
+NAV UL LI{
+DISPLAY:INLINE-BLOCK;
+LIST-STYLE-TYPE:NONE;
+}
+h1{
+color:blue;
+font-family:verdana;
+font-size:300%;
+}
+h2{
+color:BLACK;
+font-family:courier;
+font-size:160;
+}
+.SECONDARY{
+COLOR:BLACK;
+FONT-FAMILY:VERDANA;
+FONT-SIZE:200;
+}
